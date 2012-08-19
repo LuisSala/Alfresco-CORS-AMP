@@ -2,7 +2,7 @@
 This is a modified version of the CORS filter found at:
  http://software.dzhuvinov.com/cors-filter.htm
  
-The main modification is the addition of `cors.allowOriginSuffixMatching` that, when set to `true` allows for partial matching of Origin suffices while still fully matching the URI scheme.
+The main modification is the addition of `cors.allowOriginSuffixMatching` that, when set to `true` allows for partial matching of Origin suffixes while still fully matching the URI scheme.
  
 For example, assuming the following configuration:
 
